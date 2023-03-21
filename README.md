@@ -1,0 +1,2 @@
+# NWM
+Nexyon Window Manager
